@@ -4,10 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Dolgnost;
-
 namespace GFD
 {
-
     public class Employees
     {
         public string Familia { get; }
@@ -22,6 +20,5 @@ namespace GFD
             this.Otchestvo = Otchestvo;
             this.position = post;
         }
-
     }
 }
