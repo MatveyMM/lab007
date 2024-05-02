@@ -26,5 +26,4 @@ namespace ClassLibrary1
             Specialization2 = Specialization;
         }
     }
-    
 }
