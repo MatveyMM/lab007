@@ -1,7 +1,4 @@
 ﻿using System;
-
-
-
 namespace ClassLibaryTPO8VAR
 {
     public class Smena
@@ -15,7 +12,6 @@ namespace ClassLibaryTPO8VAR
             {
                 date = DateTime.Now;
             }
-            
         }
     }
 }
